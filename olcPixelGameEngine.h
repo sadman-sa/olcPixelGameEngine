@@ -1,5 +1,6 @@
 #pragma region license_and_help
-/*
+/* why as a stranger am I able to make change ???
+/*	
 	olcPixelGameEngine.h
 
 	+-------------------------------------------------------------+
@@ -195,7 +196,7 @@
 
 	Author
 	~~~~~~
-	David Barr, aka javidx9, ©OneLoneCoder 2018, 2019, 2020, 2021, 2022
+	David Barr, aka javidx9, Â©OneLoneCoder 2018, 2019, 2020, 2021, 2022
 */
 #pragma endregion
 
